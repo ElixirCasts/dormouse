@@ -1,3 +1,3 @@
-# Dormouse
+Dormouse
 
-** TODO: Add description **
+An Amnesia ORM for Elixir
